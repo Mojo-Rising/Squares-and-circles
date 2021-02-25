@@ -8,19 +8,16 @@
 
 ## The assignment
 
-![endresult](endresult.png)
-
 Open a new file in your IDE
 
-* Create an svg element
-* Make sure to add the xmlns="http://www.w3.org/2000/svg" tag
-* Create a viewBox of 1000x1000 in that svg element at x 0, y 0
-* Draw a grid of 10x10 lines
-* Save the svg element as an svg file and call it grid.svg
-* Create a html file with an svg element in it and use your grid.svg as background for it
-* Using lines, draw a cube and align it with the grid
+* Make an array of 10 integers (50,100,150,200,250,300,350,400,450,500)
+* Make an array of 6 integers (100,200,300,400,500,600)
+* Using only vanilla javascript, use 2 loops to recreate the image below.
+![assignment](assignment.png)
 
-Tip: Remeber that the width of the line takes up coordinate space too.
+* Variate the r value of the fill (rgb) to get a result that looks like the image below.
+![endresult](endresult.png)
+
 
 ## Submitting your work
 Create a new branch called **gh-pages** and upload your local work into this branch. Submit a new **pull request** and make sure to put the (working) **GitHub Pages URL** in the comment section. 
